@@ -1,9 +1,9 @@
-# ⚡ TaskFlow — Task Tracker Mini App
+# Skandor Technologies task assignment by Anjana Kumari
 
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 ### 1. Fetch & Display (API Integration)
 - Automatically fetches 15 initial tasks on load from [`https://jsonplaceholder.typicode.com/todos?_limit=15`](https://jsonplaceholder.typicode.com/todos?_limit=15).
@@ -31,8 +31,8 @@
 ## Getting Started
 
 ### Prerequisites
-- Node.js (v16+ recommended)
-- npm or yarn
+- Node.js 
+- npm 
 
 ### Installation & Execution
 
